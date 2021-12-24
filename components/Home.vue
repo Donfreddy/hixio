@@ -1,0 +1,10 @@
+<template>
+  <div class="text-red-400 text-4xl">Home</div>
+</template>
+
+<script lang="ts">
+import Vue from 'vue'
+export default Vue.extend({})
+</script>
+
+<style scoped></style>
