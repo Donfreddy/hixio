@@ -1,7 +1,13 @@
 <template>
   <div class="">
     <Header />
-    <Home />
+    <main>
+      <Home />
+      <Feature />
+      <Testimonials />
+    </main>
+    <!-- <Footer /> -->
+    
   </div>
 </template>
 

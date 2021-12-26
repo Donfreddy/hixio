@@ -1,4 +1,16 @@
 export default {
+  // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
+  ssr: false,
+
+  // Target (https://go.nuxtjs.dev/config-target)
+  target: 'static',
+
+  // Default config
+  server: {
+    host: 'localhost',
+    port: 3000,
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'hixio',
